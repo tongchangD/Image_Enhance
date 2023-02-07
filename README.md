@@ -5,8 +5,8 @@ Image_Enhance
 其中训练主要采用`pytorch`， 模型主要 由`pth`->`onnx` -> `trt` 最后采用`tensorrt` 结合`C++`部署，其中部分只含有部分代码
 
 - [ ] 图像超分辨率（SR）
-  - [ ] 简介Read
-  - [ ] 训练
+  - [x] 简介Read
+  - [x] 训练
   - [ ] 部署
 - [ ] 图像上色（colorize）
   - [ ] 训练
